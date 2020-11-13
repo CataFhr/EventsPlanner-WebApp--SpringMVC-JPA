@@ -1,5 +1,13 @@
 Events Planner
 
+Principalele tehnologii si tool-uri folosite:
+-Java
+-Spring Web MVC
+-Maven
+-JPA
+-JSP
+-MySQL
+
 *Aplicatia permite inregistrarea/autentificare unui utilizator 
 *Orice utilizator poate sa: 
   -vizualizeze lista proprilor evenimente si lista cu evenimentele tuturor utilizatorilor in ordine cronologica 
